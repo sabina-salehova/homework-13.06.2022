@@ -434,6 +434,12 @@ header .header-bottom .header-bottom-all a:hover::before{
     
 }
 
+@media(min-width:992px){
+    #phone-header{
+        display: none;
+    } 
+}
+
 
 
 
